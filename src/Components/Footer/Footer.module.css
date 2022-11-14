@@ -1,0 +1,54 @@
+* {
+    margin: 0% ;
+    padding: 0% ;
+}
+/* main footer css starts from here */
+.container{
+    height: 57vh;
+    width: 100%;
+}
+.Footermaincontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50vh;
+    width: 100%;
+    background-color: #6f9196;
+}
+.brand{
+    height: 7vh;
+    text-align: center;
+   background-color: #1c2431;
+   color: white;
+}
+
+
+/* Footer card css starts from here */
+.cardcontainer {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 4vh;
+    color: white;
+}
+
+.cardheading {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cardmainlist {
+    list-style: none;
+    position: relative;
+    right: 2vw;
+}
+
+
+.sublist {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding: 10px 0;
+}
+
+

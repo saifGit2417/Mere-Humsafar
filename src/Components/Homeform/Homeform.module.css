@@ -1,0 +1,45 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.formcontainer {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10vh;
+    background-image: url(https://img.freepik.com/premium-vector/couple-meeting-dating-website_179970-1199.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0vw -20vh;
+}
+
+.formtext {
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 0 2vw;
+}
+
+.options {    
+    height: 5vh;
+    width: 10vw;
+}
+
+.button {
+    margin-left: 2vw;
+    height: 5vh;
+    width: 10vw;
+}
+
+.buttonreset {
+    position: relative;
+    top: 10vh;
+    right: 10vw;
+}
+
+.congmsg {
+    color: white;
+    background-color: #e84393;
+    /* height: 5vh; */
+}

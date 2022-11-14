@@ -1,0 +1,35 @@
+* {
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.maincontainer {
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    padding-top: 5vh;
+}
+
+.head {
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 2vh;
+}
+.image{
+    width: 50vw;
+}
+.image1{
+    width: 35vw;
+    height: 70vh;
+}
+.formcontainer {
+    text-align: left;
+    width: 35vw;
+}
+.congo{
+    font-size: 30px;
+    color: green;
+    height: 8vh;
+}

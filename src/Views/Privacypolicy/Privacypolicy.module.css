@@ -1,0 +1,11 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.maincontainer {
+    color: whitesmoke;
+    background-color:#b2bec3;
+    text-align: left;
+    height: 300vh;
+}

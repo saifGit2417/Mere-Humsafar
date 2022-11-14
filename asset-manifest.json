@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mere-Humsafar/static/css/main.cfad332d.css",
-    "main.js": "/Mere-Humsafar/static/js/main.8a46fdb5.js",
+    "main.js": "/Mere-Humsafar/static/js/main.91cfeac5.js",
     "static/js/787.856a2c82.chunk.js": "/Mere-Humsafar/static/js/787.856a2c82.chunk.js",
     "index.html": "/Mere-Humsafar/index.html",
     "main.cfad332d.css.map": "/Mere-Humsafar/static/css/main.cfad332d.css.map",
-    "main.8a46fdb5.js.map": "/Mere-Humsafar/static/js/main.8a46fdb5.js.map",
+    "main.91cfeac5.js.map": "/Mere-Humsafar/static/js/main.91cfeac5.js.map",
     "787.856a2c82.chunk.js.map": "/Mere-Humsafar/static/js/787.856a2c82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfad332d.css",
-    "static/js/main.8a46fdb5.js"
+    "static/js/main.91cfeac5.js"
   ]
 }
